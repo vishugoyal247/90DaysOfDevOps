@@ -1,0 +1,22 @@
+𝐇𝐞𝐥𝐥𝐨 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧!!
+𝟐𝐧𝐝 𝐃𝐚𝐲: DevOps Challange by Shubham Londhe
+
+✅ 𝐃𝐚𝐲 𝟐/𝟗𝟎
+
+After the Introduction to DevOps, Today on our second day we are discussing the very 𝐛𝐚𝐬𝐢𝐜 𝐥𝐢𝐧𝐮𝐱 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 -
+
+◾𝐥𝐬 𝐨𝐩𝐭𝐢𝐨𝐧_𝐟𝐥𝐚𝐠 𝐚𝐫𝐠𝐮𝐦𝐞𝐧𝐭𝐬
+list the sub directories and files available in the present directory
+◾ 𝐥𝐬
+The ls command is used to list files or directories in Linux and other Unix-based operating systems.
+◾ 𝐥𝐬 -𝐥
+Type this command to list the contents of the directory in a table format with columns including.
+◾ 𝐥𝐬 -𝐚
+Type this command to list files or directories including hidden files or directories. In Linux, anything that begins with a . is considered a hidden file.
+◾ 𝐥𝐬 *.𝐩𝐲
+Type this command to list all the files having .py extension.
+◾𝐥𝐬 -𝐢
+Type this command to list the files and directories with index numbers inodes
+◾𝐥𝐬 -𝐝 */
+Type this command to list only directories.(we can also specify a pattern)
+
