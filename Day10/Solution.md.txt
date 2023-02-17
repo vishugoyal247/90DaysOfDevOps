@@ -1,0 +1,21 @@
+✌ 𝐇𝐞𝐥𝐥𝐨 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧!!
+
+𝟏𝟎𝐭𝐡 𝐃𝐚𝐲: 90DaysOfDevopsChallenge by Shubham Londhe
+
+✅ 𝐃𝐚𝐲 𝟏𝟎/𝟗𝟎
+After the Basic of the Git & GitHub, Today is our tenth day, we are discussing about the following topics:
+
+📌 Git Revert
+📌 Git Reset
+📌 Git Rebase
+📌 Git Merge
+📌 Hand-On on created a flow of project
+
+"𝐈 𝐡𝐚𝐯𝐞 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐚 𝐛𝐥𝐨𝐠 𝐟𝐨𝐫 𝐲𝐨𝐮, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐠𝐨 𝐚𝐧𝐝 𝐭𝐚𝐤𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐭 𝐢𝐭 𝐨𝐧𝐜𝐞."
+
+𝑭𝒐𝒍𝒍𝒐𝒘 𝒎𝒆 𝒐𝒏 𝒎𝒆𝒅𝒊𝒖𝒎: https://lnkd.in/dZj_6GGU
+
+𝑴𝒆𝒅𝒊𝒖𝒎 𝒃𝒍𝒐𝒈 𝒍𝒊𝒏𝒌: https://lnkd.in/dR9R3EDV
+𝐆𝐢𝐭𝐡𝐮𝐛 𝐋𝐢𝐧𝐤: https://lnkd.in/d4eV_Ri7
+
+🤩🤩𝑪𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅🤩🤩
